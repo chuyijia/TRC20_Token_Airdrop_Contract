@@ -4,7 +4,9 @@ TRC20 Token redistribution (Airdrop)  dapp on Tron network
 A smart contract on TRON main network to equaly redistribute TRC20 tokens. 
 ![Preview](screenshot.png)
 
+# Smart contract on main TRON network
 
+https://tronscan.org/#/contract/TSYmsMxx2m9b5o8ZDLXT2fAGSXNY2RgDL6/code
 
 
 # Running instructions:
